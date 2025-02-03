@@ -777,7 +777,7 @@ for frame in (frame1, frame2):
     frame.grid(row=0, column=0, sticky="nsew")
 
 # === Frame 1: Ders Seçim Ekranı ===
-image = Image.open("kostu_yuvarlak_logo.png")
+image = Image.open("logo.png")
 image = image.resize((200, 200), Image.Resampling.LANCZOS)
 photo = ImageTk.PhotoImage(image)
 
