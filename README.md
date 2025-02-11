@@ -3,6 +3,9 @@
 ## 📌 Proje Açıklaması  
 Bu proje, eğitim programları kapsamında **ders çıktıları, program çıktıları ve öğrenci değerlendirme kriterleri** arasındaki ilişkiyi yönetmek için geliştirilmiş bir arayüzdür. Kullanıcıların verileri hızlıca girmesine ve düzenlemesine olanak tanır. Eğitim kurumlarının kalite standartlarını karşılamasına ve çıktı odaklı eğitim modellerinin uygulanmasına katkı sağlamayı amaçlamaktadır.
 
+- **Yapılış Tarihi:** 22 Ocak 2025
+- **Son Güncelleme:** 11 Şubat 2025
+
 ## 🚀 Kullanılan Teknolojiler  
 - **Python** 🐍  
 - **SQL Server** (Veri Tabanı Yönetimi)  
