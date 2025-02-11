@@ -1,4 +1,4 @@
-# 🎯 Başarı Hesaplama Arayüzü
+# 🎯 Success Calculation Interface
 
 ## 📌 Proje Açıklaması  
 Bu proje, eğitim programları kapsamında **ders çıktıları, program çıktıları ve öğrenci değerlendirme kriterleri** arasındaki ilişkiyi yönetmek için geliştirilmiş bir arayüzdür. Kullanıcıların verileri hızlıca girmesine ve düzenlemesine olanak tanır. Eğitim kurumlarının kalite standartlarını karşılamasına ve çıktı odaklı eğitim modellerinin uygulanmasına katkı sağlamayı amaçlamaktadır.
